@@ -4,6 +4,7 @@ This notebook was created while taking Complete Python Bootcamp @Udemy https://w
 ***Course content***
 * Python Object and Data Structure Basics
 * Python Comparison Operators
+* Python Statements (if, elif, else, for statement, while, range()
 * Mehods and Functions
 * Milestone Project-1
 * Object Oriented Programming
